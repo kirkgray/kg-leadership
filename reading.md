@@ -6,15 +6,43 @@ I do a _lot_ of reading.  I love books, and I like to think I get something out 
 
 #### Currently Reading
 
-- [Harnessing Technology for Deeper Learning](https://www.goodreads.com/book/show/41963387-harnessing-technology-for-deeper-learning)
-- [The 15 Commitments of Conscious Leadership](https://www.goodreads.com/book/show/24490392-the-15-commitments-of-conscious-leadership)
-- [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery)
-- [Cyberwar](https://www.goodreads.com/book/show/7286217-cyberwar)
+- [Meditation for Fidgety Skeptics]
+- [Competing Against Luck]
+- [User Story Mapping]
+- [Make Think Imagine]
+
 
 #### Read
 
 ##### Nonfiction
 
+- [What You Do Is Who You Are]
+- [Elevate]
+- [How To Invent Everything]
+- [The Conscious Project Leader]
+- [A Team of Leaders]
+- [The Lond-Distance Leader]
+- [Continuous Delivery]
+- [Team Topologies]
+- [Blood, Sweat, and Pixels]
+- [Conversations Worth Having]
+- [The Making of a Manager]
+- [The Bottleneck Rules]
+- [The Infinite Game]
+- [No One Cares About Crazy People]
+- [Radical Candor]
+- [Barrel Aged Stout and Selling Out]
+- [Good Strategy, Bad Strategy]
+- [The Age of Surveillance Capitalism]
+- [An Elegant Puzzle]
+- [Leadership and Self-Deception]
+- [The Hidden Life of Trees]
+- [7 Rules for Positive, Productive Change]
+- [Developing the Leaders Around You]
+- [Harnessing Technology for Deeper Learning](https://www.goodreads.com/book/show/41963387-harnessing-technology-for-deeper-learning)
+- [The 15 Commitments of Conscious Leadership](https://www.goodreads.com/book/show/24490392-the-15-commitments-of-conscious-leadership)
+- [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery)
+- [Cyberwar](https://www.goodreads.com/book/show/7286217-cyberwar)
 - [Collaborating With the Enemy](https://www.goodreads.com/book/show/32478572-collaborating-with-the-enemy)
 - [Smarter Faster Better](https://www.goodreads.com/book/show/25733966-smarter-faster-better)
 - [Reinventing Your Board](https://www.goodreads.com/book/show/174338.Reinventing_Your_Board)
